@@ -1,0 +1,12 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#name {
+  font-weight: 1500;
+  text-align: center;
+}
+
+#profile {
+  margin: auto 0;
+}
